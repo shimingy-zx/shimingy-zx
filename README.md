@@ -26,7 +26,6 @@ I am a product-minded full-stack developer based in Shenzhen. Most of my public 
 ### Product systems
 
 - **[Covercast](https://github.com/lulabs-org/covercast)** — 面向竖屏直播的可视化背景编辑器；使用 SVG 画布、模板与多场景管理，并可直接作为 OBS 浏览器源
-- **[显码 / Xian Ma](https://github.com/lulabs-org/xian-ma)** — AI 驱动的学员行为分析与洞察平台
 - **[LuLabs MCP](https://github.com/lulabs-org/Lulabs-MCP)** — 将飞书多维表格中的学员与会议总结封装为标准 MCP 工具，供 AI 助手查询和分析
 - **[DocuFlow](https://github.com/lulabs-org/docuflow)** — 基于动态模板和字段校验生成 DOCX / PDF 的文档自动化平台
 - **[SoundSentinel for OBS](https://github.com/shimingy-zx/sound-sentinel-obs)** — 原生 OBS 音频过滤器，根据声音自动开始和停止录制，无需 Python、WebSocket 或额外后台进程
