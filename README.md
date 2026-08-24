@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/profile-hero.png" alt="Connected AI, knowledge, education, creator and workflow systems" width="100%" />
+  <a href="https://github.com/lulabs-org">
+    <img src="./assets/profile-intro.svg" alt="杨仕明：把真实世界的信号转化为上下文、知识、Agent 与可靠产品" width="100%" />
+  </a>
 </p>
 
 <h1 align="center">杨仕明 · Shiming Yang</h1>
@@ -22,6 +24,17 @@
 </p>
 
 ---
+
+## Now · 此刻
+
+```yaml
+building:
+  core: "Nove — 让组织上下文更好地服务于 AI 与 Agent"
+  interfaces: [Web, API, CLI, MCP, Skills]
+  side_quests: "让创作者工具更自然地融入工作流"
+exploring: [Agent systems, Knowledge workflows, Programming languages, Formal methods]
+north_star: "Make complexity useful, then make it disappear."
+```
 
 ## 不只是写代码，而是把系统做完整
 
@@ -55,6 +68,10 @@
 
 ## Product constellation
 
+<p align="center">
+  <img src="./assets/profile-hero.png" alt="Connected AI, knowledge, creator and workflow systems" width="100%" />
+</p>
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -74,8 +91,6 @@
       <p>基于动态模板和字段校验生成 DOCX / PDF，把重复的专业文档工作变成可靠流程。</p>
       <p><code>Next.js</code> <code>DOCX</code> <code>PDF</code> <code>Automation</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🎙️ <a href="https://github.com/shimingy-zx/sound-sentinel-obs">SoundSentinel</a></h3>
       <p>原生 OBS 音频过滤器：有声音时开始录制，持续静音后停止。无需 Python、WebSocket 或后台进程。</p>
@@ -85,6 +100,11 @@
       <h3>💬 <a href="https://github.com/lulabs-org/wx-sidebar-helper">微信知识库助手</a></h3>
       <p>将实验室知识库带进沟通现场，让 AI 回答更贴近真实组织语境。</p>
       <p><code>React</code> <code>Knowledge Base</code> <code>Assistant</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/lulabs-org/lulab-website">Lu Lab Website</a></h3>
+      <p>承载实验室内容、项目与社区体验的 Web 平台，也是产品设计和技术实验的长期入口。</p>
+      <p><code>Next.js</code> <code>Three.js</code> <code>Auth</code> <code>Content</code></p>
     </td>
   </tr>
 </table>
