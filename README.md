@@ -10,7 +10,7 @@ I am a product-minded full-stack developer based in Shenzhen. Most of my public 
 
 | Direction | Representative work |
 | --- | --- |
-| **AI & organizational knowledge** | Agent-ready data infrastructure, meeting intelligence, structured knowledge and permission-aware interfaces |
+| **AI & organizational knowledge** | Agent-ready data infrastructure, meeting intelligence, structured knowledge and permission-aware system design |
 | **Education & insight** | Student behavior analysis, learning records and knowledge assistants grounded in real organizational data |
 | **Creator tools** | OBS automation, live-stream visual production and AI-assisted customer interaction |
 | **Workflow automation** | Document generation, MCP services, CLI tools and integrations across business systems |
@@ -19,7 +19,7 @@ I am a product-minded full-stack developer based in Shenzhen. Most of my public 
 
 ### [Nove](https://github.com/lulabs-org/nove-doc)
 
-组织级 Agent 数据基础设施，让会议、转写、参与者与业务上下文成为 AI 和 Agent 可安全调用的结构化资产。我参与建设覆盖后端、管理端、CLI、权限与数据契约的完整产品体系。
+面向 AI / Agent 的组织数据基础设施，围绕会议、转写、参与者与业务上下文建设结构化知识和工作流。我参与建设覆盖后端、管理端、CLI、权限与数据契约的完整产品体系。
 
 [API](https://github.com/lulabs-org/nove-api) · [Admin](https://github.com/lulabs-org/nove-admin) · [CLI](https://github.com/lulabs-org/nove-cli) · [Skills](https://github.com/lulabs-org/nove-skills) · [Docs](https://github.com/lulabs-org/nove-doc)
 
