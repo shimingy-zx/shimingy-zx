@@ -96,6 +96,8 @@ north_star: "Make complexity useful, then make it disappear."
       <p>原生 OBS 音频过滤器：有声音时开始录制，持续静音后停止。无需 Python、WebSocket 或后台进程。</p>
       <p><code>C++</code> <code>CMake</code> <code>OBS Native</code> <code>Audio</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>💬 <a href="https://github.com/lulabs-org/wx-sidebar-helper">微信知识库助手</a></h3>
       <p>将实验室知识库带进沟通现场，让 AI 回答更贴近真实组织语境。</p>
@@ -114,8 +116,7 @@ north_star: "Make complexity useful, then make it disappear."
   <br />
   <a href="https://github.com/lulabs-org/live-ai-plugin">直播 AI 助手</a> ·
   <a href="https://github.com/lulabs-org/meeting_record">会议记录工具</a> ·
-  <a href="https://github.com/shimingy-zx/sound-sentinel">SoundSentinel Python</a> ·
-  <a href="https://github.com/lulabs-org/lulab-website">Lu Lab Website</a>
+  <a href="https://github.com/shimingy-zx/sound-sentinel">SoundSentinel Python</a>
 </details>
 
 ## My engineering compass
