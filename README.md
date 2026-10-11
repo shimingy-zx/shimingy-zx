@@ -99,11 +99,6 @@ north_star: "Make complexity useful, then make it disappear."
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/lulabs-org/wx-sidebar-helper">微信知识库助手</a></h3>
-      <p>将实验室知识库带进沟通现场，让 AI 回答更贴近真实组织语境。</p>
-      <p><code>React</code> <code>Knowledge Base</code> <code>Assistant</code></p>
-    </td>
-    <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/lulabs-org/lulab-website">Lu Lab Website</a></h3>
       <p>承载实验室内容、项目与社区体验的 Web 平台，也是产品设计和技术实验的长期入口。</p>
       <p><code>Next.js</code> <code>Three.js</code> <code>Auth</code> <code>Content</code></p>
