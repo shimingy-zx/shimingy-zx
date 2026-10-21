@@ -99,6 +99,11 @@ north_star: "Make complexity useful, then make it disappear."
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🧱 <a href="https://github.com/lulabs-org/agent-voxel-world">Agent Voxel World</a></h3>
+      <p>独立的本地多人 3D 体素游戏原型。集成 LLM 自主决策 Agent、服务端权威物理、附近空间语音与实时转写字幕。</p>
+      <p><code>TypeScript</code> <code>Three.js</code> <code>Colyseus</code> <code>AI Agent</code></p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/lulabs-org/lulab-website">Lu Lab Website</a></h3>
       <p>承载实验室内容、项目与社区体验的 Web 平台，也是产品设计和技术实验的长期入口。</p>
       <p><code>Next.js</code> <code>Three.js</code> <code>Auth</code> <code>Content</code></p>
@@ -133,8 +138,8 @@ north_star: "Make complexity useful, then make it disappear."
 ## Toolbox
 
 <p>
-  <strong>AI & Agents</strong> — OpenAI · MCP · Agent workflows · Knowledge systems<br />
-  <strong>Application</strong> — TypeScript · NestJS · Next.js · React · Python<br />
+  <strong>AI & Agents</strong> — OpenAI · DeepSeek · MCP · Agent workflows · Knowledge systems<br />
+  <strong>Application</strong> — TypeScript · NestJS · Next.js · React · Three.js · Colyseus · Python<br />
   <strong>Data & Infrastructure</strong> — PostgreSQL · Prisma · Redis · BullMQ · REST · GraphQL<br />
   <strong>Native & Automation</strong> — C++ · CMake · OBS · Go · Browser extensions
 </p>
