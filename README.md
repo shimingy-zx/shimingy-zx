@@ -8,12 +8,8 @@
 
 <p align="center">
   <strong>Product-minded full-stack developer</strong><br />
-  I turn ambitious AI ideas into calm, dependable software.
-</p>
-
-<p align="center">
-  <a href="https://github.com/lulabs-org">Building at @lulabs-org</a>
-  &nbsp;·&nbsp; Shenzhen, China
+  <em>Turning ambitious AI ideas into calm, dependable software.</em><br />
+  <a href="https://github.com/lulabs-org">Building at @lulabs-org</a> &nbsp;·&nbsp; 📍 Shenzhen, China
 </p>
 
 <p align="center">
@@ -29,10 +25,10 @@
 
 ```yaml
 building:
-  core: "Nove — 让组织上下文更好地服务于 AI 与 Agent"
+  core: "Nove — 面向 AI 与 Agent 的组织上下文基础设施"
   interfaces: [Web, API, CLI, MCP, Skills]
-  side_quests: "让创作者工具更自然地融入工作流"
-exploring: [Agent systems, Knowledge workflows, Programming languages, Formal methods]
+  worlds_&_tools: "Agent Voxel World (3D 多人具身世界) & 创作者工具"
+exploring: [Agent systems, Multi-agent worlds, Knowledge workflows, Formal methods]
 north_star: "Make complexity useful, then make it disappear."
 ```
 
@@ -49,31 +45,36 @@ north_star: "Make complexity useful, then make it disappear."
     <td width="68%" valign="top">
       <h3>🧠 <a href="https://github.com/lulabs-org/nove-doc">Nove</a></h3>
       <p>面向 AI / Agent 的组织数据基础设施，围绕会议、转写、参与者与业务上下文建设结构化知识和工作流。</p>
-      <p>我参与建设覆盖后端、管理端、CLI、权限、数据契约与项目文档的完整产品体系。</p>
+      <p>我参与建设覆盖后端服务、管理端控制台、CLI 运维工具、权限体系、数据契约与项目文档的完整产品体系。</p>
+      <p>
+        <a href="https://github.com/lulabs-org/nove-api"><code>NOVE API</code></a> &nbsp;
+        <a href="https://github.com/lulabs-org/nove-admin"><code>ADMIN</code></a> &nbsp;
+        <a href="https://github.com/lulabs-org/nove-cli"><code>CLI</code></a> &nbsp;
+        <a href="https://github.com/lulabs-org/nove-skills"><code>SKILLS</code></a> &nbsp;
+        <a href="https://github.com/lulabs-org/nove-doc"><code>DOCS</code></a>
+      </p>
     </td>
     <td width="32%" valign="top">
       <p><strong>System surface</strong></p>
-      <p>API & data model<br />Admin experience<br />CLI & Agent access<br />Permissions & contracts<br />Docs & validation</p>
+      <p>
+        • API & Data model<br />
+        • Admin experience<br />
+        • CLI & Agent access<br />
+        • Permissions & contracts<br />
+        • Docs & validation
+      </p>
     </td>
   </tr>
 </table>
-
-<p>
-  <a href="https://github.com/lulabs-org/nove-api"><code>NOVE API</code></a>
-  <a href="https://github.com/lulabs-org/nove-admin"><code>ADMIN</code></a>
-  <a href="https://github.com/lulabs-org/nove-cli"><code>CLI</code></a>
-  <a href="https://github.com/lulabs-org/nove-skills"><code>SKILLS</code></a>
-  <a href="https://github.com/lulabs-org/nove-doc"><code>DOCS</code></a>
-</p>
 
 ## Product constellation
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/lulabs-org/covercast">Covercast</a></h3>
-      <p>面向竖屏直播的可视化背景编辑器。SVG 画布、模板、多场景管理，并可直接作为 OBS 浏览器源。</p>
-      <p><code>Next.js</code> <code>React</code> <code>SVG</code> <code>OBS</code></p>
+      <h3>🧱 <a href="https://github.com/lulabs-org/agent-voxel-world">Agent Voxel World</a></h3>
+      <p>独立的本地多人 3D 体素游戏原型。集成 LLM 自主决策 Agent、服务端权威物理碰撞、附近空间语音与实时转写字幕。</p>
+      <p><code>TypeScript</code> <code>Three.js</code> <code>Colyseus</code> <code>AI Agent</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>🔌 <a href="https://github.com/lulabs-org/Lulabs-MCP">LuLabs MCP</a></h3>
@@ -83,9 +84,9 @@ north_star: "Make complexity useful, then make it disappear."
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📄 <a href="https://github.com/lulabs-org/docuflow">DocuFlow</a></h3>
-      <p>基于动态模板和字段校验生成 DOCX / PDF，把重复的专业文档工作变成可靠流程。</p>
-      <p><code>Next.js</code> <code>DOCX</code> <code>PDF</code> <code>Automation</code></p>
+      <h3>🎬 <a href="https://github.com/lulabs-org/covercast">Covercast</a></h3>
+      <p>面向竖屏直播的可视化背景编辑器。SVG 画布、模板、多场景管理，并可直接作为 OBS 浏览器源。</p>
+      <p><code>Next.js</code> <code>React</code> <code>SVG</code> <code>OBS</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>🎙️ <a href="https://github.com/shimingy-zx/sound-sentinel-obs">SoundSentinel</a></h3>
@@ -95,9 +96,9 @@ north_star: "Make complexity useful, then make it disappear."
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧱 <a href="https://github.com/lulabs-org/agent-voxel-world">Agent Voxel World</a></h3>
-      <p>独立的本地多人 3D 体素游戏原型。集成 LLM 自主决策 Agent、服务端权威物理、附近空间语音与实时转写字幕。</p>
-      <p><code>TypeScript</code> <code>Three.js</code> <code>Colyseus</code> <code>AI Agent</code></p>
+      <h3>📄 <a href="https://github.com/lulabs-org/docuflow">DocuFlow</a></h3>
+      <p>基于动态模板和字段校验生成 DOCX / PDF，把重复的专业文档工作变成可靠流程。</p>
+      <p><code>Next.js</code> <code>DOCX</code> <code>PDF</code> <code>Automation</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/lulabs-org/lulab-website">Lu Lab Website</a></h3>
@@ -108,37 +109,61 @@ north_star: "Make complexity useful, then make it disappear."
 </table>
 
 <details>
-  <summary><strong>More things I've built</strong></summary>
+  <summary><strong>更多项目与早期探索 · More projects</strong></summary>
   <br />
-  <a href="https://github.com/lulabs-org/live-ai-plugin">直播 AI 助手</a> ·
-  <a href="https://github.com/lulabs-org/meeting_record">会议记录工具</a> ·
-  <a href="https://github.com/shimingy-zx/sound-sentinel">SoundSentinel Python</a>
+
+  - 🤖 [**直播 AI 助手**](https://github.com/lulabs-org/live-ai-plugin) — 直播场景下的智能互动与上下文答复助手
+  - 📝 [**会议记录工具**](https://github.com/lulabs-org/meeting_record) — 会议录音整理、说话人切片与自动化纪要提取
+  - 🐍 [**SoundSentinel (Python)**](https://github.com/shimingy-zx/sound-sentinel) — SoundSentinel 的早期 Python 原型版本
 </details>
 
 ## My engineering compass
 
 <table>
   <tr>
-    <td align="center" width="25%"><strong>01</strong><br /><sub>Start from real use</sub></td>
-    <td align="center" width="25%"><strong>02</strong><br /><sub>Design the boundary</sub></td>
-    <td align="center" width="25%"><strong>03</strong><br /><sub>Build end to end</sub></td>
-    <td align="center" width="25%"><strong>04</strong><br /><sub>Verify with evidence</sub></td>
+    <td width="25%" valign="top">
+      <strong>01 · 真实场景出发</strong><br />
+      <sub>Start from real use</sub>
+      <p>从真实使用与业务痛点出发，而非堆砌技术清单。</p>
+    </td>
+    <td width="25%" valign="top">
+      <strong>02 · 清晰定义边界</strong><br />
+      <sub>Design the boundary</sub>
+      <p>严谨设计 API 契约、数据模型、权限与跨端一致性。</p>
+    </td>
+    <td width="25%" valign="top">
+      <strong>03 · 端到端打通闭环</strong><br />
+      <sub>Build end to end</sub>
+      <p>穿行前后端、Agent 接口与原生工具，把完整系统交付给用户。</p>
+    </td>
+    <td width="25%" valign="top">
+      <strong>04 · 证据驱动验证</strong><br />
+      <sub>Verify with evidence</sub>
+      <p>用可复现测试、端到端状态与文档保障工程可靠性。</p>
+    </td>
   </tr>
 </table>
 
-- 从使用场景而不是技术清单开始
-- 重视 API 契约、数据边界、权限模型与跨端一致性
-- 用可复现测试、端到端证据和真实运行状态验证结果
-- 把文档、部署方式和开发者体验视为产品本身的一部分
-
 ## Toolbox
 
-<p>
-  <strong>AI & Agents</strong> — OpenAI · DeepSeek · MCP · Agent workflows · Knowledge systems<br />
-  <strong>Application</strong> — TypeScript · NestJS · Next.js · React · Three.js · Colyseus · Python<br />
-  <strong>Data & Infrastructure</strong> — PostgreSQL · Prisma · Redis · BullMQ · REST · GraphQL<br />
-  <strong>Native & Automation</strong> — C++ · CMake · OBS · Go · Browser extensions
-</p>
+<table>
+  <tr>
+    <td width="22%"><strong>AI & Agents</strong></td>
+    <td>DeepSeek · OpenAI · MCP (Model Context Protocol) · Agent Workflows · Knowledge Systems</td>
+  </tr>
+  <tr>
+    <td><strong>Application</strong></td>
+    <td>TypeScript · React · Next.js · Three.js · Colyseus · NestJS · Node.js · Python</td>
+  </tr>
+  <tr>
+    <td><strong>Data & Infra</strong></td>
+    <td>PostgreSQL · Prisma · Redis · BullMQ · RESTful APIs · GraphQL</td>
+  </tr>
+  <tr>
+    <td><strong>Native & Tools</strong></td>
+    <td>C++ · CMake · OBS Native · Go · Browser Extensions · Shell</td>
+  </tr>
+</table>
 
 ---
 
