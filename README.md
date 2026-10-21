@@ -68,10 +68,6 @@ north_star: "Make complexity useful, then make it disappear."
 
 ## Product constellation
 
-<p align="center">
-  <img src="./assets/profile-hero.png" alt="Connected AI, knowledge, creator and workflow systems" width="100%" />
-</p>
-
 <table>
   <tr>
     <td width="50%" valign="top">
