@@ -1,18 +1,18 @@
 <p align="right">
-  <a href="./README.en.md">English</a> &nbsp;·&nbsp; <b>简体中文</b>
+  <b>English</b> &nbsp;·&nbsp; <a href="./README.zh.md">简体中文</a>
 </p>
 
 <p align="center">
   <a href="https://github.com/lulabs-org">
-    <img src="./assets/profile-intro.svg" alt="杨仕明：把真实世界的信号转化为上下文、知识、Agent 与可靠产品" width="100%" />
+    <img src="./assets/profile-intro.svg" alt="Shiming Yang: Turning real-world signals into context, knowledge, agents, and dependable products" width="100%" />
   </a>
 </p>
 
-<h1 align="center">杨仕明 · Shiming Yang</h1>
+<h1 align="center">Shiming Yang · 杨仕明</h1>
 
 <p align="center">
   <strong>Product-minded full-stack developer</strong><br />
-  <em>AI 时代机会 = 专业能力 × AI 驾驭能力 × 综合能力</em><br />
+  <em>Opportunities in the AI Era = Professional Competence × AI Mastery × Broad Capability</em><br />
   <a href="https://github.com/lulabs-org">Building at @lulabs-org</a> &nbsp;·&nbsp; 📍 Shenzhen, China &nbsp;·&nbsp; ✉️ <a href="mailto:shiming.y@qq.com">shiming.y@qq.com</a>
 </p>
 
@@ -25,22 +25,22 @@
 
 ---
 
-## Now · 此刻
+## Now
 
 ```yaml
 building:
-  core: "Nove — 面向 AI 与 Agent 的组织上下文基础设施"
+  core: "Nove — Organizational Context & Data Infrastructure for AI & Agents"
   interfaces: [Web, API, CLI, MCP, Skills]
-  worlds_&_tools: "Agent Voxel World (3D 多人具身世界) & 创作者工具"
+  worlds_&_tools: "Agent Voxel World (3D Embodied Multiplayer World) & Creator Tools"
 exploring: [Agent systems, Multi-agent worlds, Knowledge workflows, Formal methods]
 north_star: "Make complexity useful, then make it disappear."
 ```
 
-## 不只是写代码，而是把系统做完整
+## Not Just Writing Code, But Building Complete Systems
 
-我的大部分公开作品都在 [Lu Lab](https://github.com/lulabs-org)。我喜欢从真实而混乱的业务现场出发，在产品、前端、后端、数据、Agent 接口、CLI 和原生集成之间穿行，最后把复杂性留在系统内部，把清晰留给使用者。
+Most of my public work is built at [Lu Lab](https://github.com/lulabs-org). I love starting from real, chaotic business environments, navigating across product design, front-end, back-end, data pipelines, Agent interfaces, CLI tools, and native system integrations. I keep the complexity engineered inside the system, delivering calm, effortless clarity to users.
 
-> **复杂系统不应该让人感到复杂。** 这是我做产品与工程时反复坚持的标准。
+> **A complex system shouldn't feel complex to use.** This is the engineering standard I hold myself to.
 
 ## Featured system · Nove
 
@@ -48,8 +48,8 @@ north_star: "Make complexity useful, then make it disappear."
   <tr>
     <td width="68%" valign="top">
       <h3>🧠 <a href="https://github.com/lulabs-org/nove">Nove</a></h3>
-      <p>面向 AI / Agent 的组织数据基础设施，围绕会议、转写、参与者与业务上下文建设结构化知识和工作流。</p>
-      <p>我参与建设覆盖后端服务、管理端控制台、CLI 运维工具、权限体系、数据契约与项目文档的完整产品体系。</p>
+      <p>Organizational data infrastructure for AI and Agents, structuring meetings, transcripts, participants, and business context into actionable knowledge workflows.</p>
+      <p>I helped build the complete product stack spanning backend services, admin console, CLI tooling, permission models, data contracts, and project documentation.</p>
       <p>
         <a href="https://github.com/lulabs-org/nove"><code>MONOREPO</code></a> &nbsp;
         <a href="https://github.com/lulabs-org/nove/tree/main/apps/api"><code>API</code></a> &nbsp;
@@ -78,7 +78,7 @@ north_star: "Make complexity useful, then make it disappear."
   <tr>
     <td width="50%" valign="top">
       <h3>🧱 <a href="https://github.com/lulabs-org/agent-voxel-world">Agent Voxel World</a></h3>
-      <p>独立的本地多人 3D 体素游戏原型。集成 LLM 自主决策 Agent、服务端权威物理碰撞、附近空间语音与实时转写字幕。</p>
+      <p>A standalone local multiplayer 3D voxel game prototype. Integrated with LLM autonomous decision agents, server-authoritative physics collision, 3D spatial audio, and real-time speech transcription subtitles.</p>
       <p>
         <code>TypeScript</code> <code>Three.js</code> <code>Colyseus</code> <code>AI Agent</code>
         &nbsp;·&nbsp; <a href="https://github.com/lulabs-org/agent-voxel-world/tree/main/docs"><strong>Docs ↗</strong></a>
@@ -86,7 +86,7 @@ north_star: "Make complexity useful, then make it disappear."
     </td>
     <td width="50%" valign="top">
       <h3>🔌 <a href="https://github.com/lulabs-org/Lulabs-MCP">LuLabs MCP</a></h3>
-      <p>把飞书多维表格中的学员与会议总结封装成标准 MCP 工具，供 AI 助手查询与分析。</p>
+      <p>Encapsulates student and meeting summaries from Feishu Bitable into standard Model Context Protocol tools for AI assistant querying and synthesis.</p>
       <p>
         <code>MCP</code> <code>TypeScript</code> <code>Feishu</code> <code>Zod</code>
         &nbsp;·&nbsp; <a href="https://github.com/lulabs-org/Lulabs-MCP"><strong>GitHub ↗</strong></a>
@@ -96,7 +96,7 @@ north_star: "Make complexity useful, then make it disappear."
   <tr>
     <td width="50%" valign="top">
       <h3>🎬 <a href="https://github.com/lulabs-org/covercast">Covercast</a></h3>
-      <p>面向竖屏直播的可视化背景编辑器。SVG 画布、模板、多场景管理，并可直接作为 OBS 浏览器源。</p>
+      <p>Visual background editor for vertical live streaming. Features an SVG canvas, template system, multi-scene management, and direct integration as an OBS browser source.</p>
       <p>
         <code>Next.js</code> <code>React</code> <code>SVG</code> <code>OBS</code>
         &nbsp;·&nbsp; <a href="https://covercast.lulabs.cn"><strong>Live Demo ↗</strong></a>
@@ -104,7 +104,7 @@ north_star: "Make complexity useful, then make it disappear."
     </td>
     <td width="50%" valign="top">
       <h3>🎙️ <a href="https://github.com/shimingy-zx/sound-sentinel-obs">SoundSentinel</a></h3>
-      <p>原生 OBS 音频过滤器：有声音时开始录制，持续静音后停止。无需 Python、WebSocket 或后台进程。</p>
+      <p>Native OBS audio filter plugin: triggers recording when sound is detected and halts after sustained silence. Pure C++ with zero Python, WebSocket, or background daemon overhead.</p>
       <p>
         <code>C++</code> <code>CMake</code> <code>OBS Native</code> <code>Audio</code>
         &nbsp;·&nbsp; <a href="https://github.com/shimingy-zx/sound-sentinel-obs"><strong>GitHub ↗</strong></a>
@@ -114,7 +114,7 @@ north_star: "Make complexity useful, then make it disappear."
   <tr>
     <td width="50%" valign="top">
       <h3>📄 <a href="https://github.com/lulabs-org/docuflow">DocuFlow</a></h3>
-      <p>基于动态模板和字段校验生成 DOCX / PDF，把重复的专业文档工作变成可靠流程。</p>
+      <p>Automated DOCX / PDF generator driven by dynamic templates and strict schema validation, transforming repetitive paperwork into dependable engineering workflows.</p>
       <p>
         <code>Next.js</code> <code>DOCX</code> <code>PDF</code> <code>Automation</code>
         &nbsp;·&nbsp; <a href="https://next-word-auto.vercel.app"><strong>Live Demo ↗</strong></a>
@@ -122,7 +122,7 @@ north_star: "Make complexity useful, then make it disappear."
     </td>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/lulabs-org/lulab-website">Lu Lab Website</a></h3>
-      <p>承载实验室内容、项目与社区体验的 Web 平台，也是产品设计和技术实验的长期入口。</p>
+      <p>The web platform hosting lab content, projects, and community experiences, serving as the gateway for product design and technical experiments.</p>
       <p>
         <code>Next.js</code> <code>Three.js</code> <code>Auth</code> <code>Content</code>
         &nbsp;·&nbsp; <a href="https://www.lulabs.org"><strong>Live Site ↗</strong></a>
@@ -132,12 +132,12 @@ north_star: "Make complexity useful, then make it disappear."
 </table>
 
 <details>
-  <summary><strong>更多项目与早期探索 · More projects</strong></summary>
+  <summary><strong>More projects & early prototypes</strong></summary>
   <br />
 
-  - 🔐 [**BIP39 Dotmap Generator**](https://github.com/shimingy-zx/bip39_dotmap) — 纯前端实现的助记词点阵可视化生成器，支持深色模式与全响应式布局 · [Live Demo ↗](https://shimingy-zx.github.io/bip39_dotmap/)
-  - 📝 [**会议记录工具**](https://github.com/lulabs-org/meeting_record) — 会议录音整理、说话人切片与自动化纪要提取
-  - 🐍 [**SoundSentinel (Python)**](https://github.com/shimingy-zx/sound-sentinel) — SoundSentinel 的早期 Python 原型版本
+  - 🔐 [**BIP39 Dotmap Generator**](https://github.com/shimingy-zx/bip39_dotmap) — Client-side BIP39 mnemonic dotmap visualizer with dark mode and responsive layout · [Live Demo ↗](https://shimingy-zx.github.io/bip39_dotmap/)
+  - 📝 [**Meeting Record Tool**](https://github.com/lulabs-org/meeting_record) — Audio transcript processing, speaker diarization, and automated meeting minutes extraction
+  - 🐍 [**SoundSentinel (Python)**](https://github.com/shimingy-zx/sound-sentinel) — Early Python prototype for voice activity detection and automated OBS recording
 </details>
 
 ## My engineering compass
@@ -145,24 +145,24 @@ north_star: "Make complexity useful, then make it disappear."
 <table>
   <tr>
     <td width="25%" valign="top">
-      <strong>01 · 真实场景出发</strong><br />
-      <sub>Start from real use</sub>
-      <p>从真实使用与业务痛点出发，而非堆砌技术清单。</p>
+      <strong>01 · Start from real use</strong><br />
+      <sub>真实场景出发</sub>
+      <p>Anchor every design in actual workflow pains, never in a checklist of technologies.</p>
     </td>
     <td width="25%" valign="top">
-      <strong>02 · 清晰定义边界</strong><br />
-      <sub>Design the boundary</sub>
-      <p>严谨设计 API 契约、数据模型、权限与跨端一致性。</p>
+      <strong>02 · Design the boundary</strong><br />
+      <sub>清晰定义边界</sub>
+      <p>Rigorously design API contracts, data models, permissions, and cross-platform consistency.</p>
     </td>
     <td width="25%" valign="top">
-      <strong>03 · 端到端打通闭环</strong><br />
-      <sub>Build end to end</sub>
-      <p>穿行前后端、Agent 接口与原生工具，把完整系统交付给用户。</p>
+      <strong>03 · Build end to end</strong><br />
+      <sub>端到端打通闭环</sub>
+      <p>Traverse frontends, backends, Agent protocols, and native tools to deliver cohesive systems.</p>
     </td>
     <td width="25%" valign="top">
-      <strong>04 · 证据驱动验证</strong><br />
-      <sub>Verify with evidence</sub>
-      <p>用可复现测试、端到端状态与文档保障工程可靠性。</p>
+      <strong>04 · Verify with evidence</strong><br />
+      <sub>证据驱动验证</sub>
+      <p>Guarantee reliability with reproducible tests, end-to-end evidence, and thorough docs.</p>
     </td>
   </tr>
 </table>
