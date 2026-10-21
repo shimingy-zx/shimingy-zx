@@ -112,7 +112,6 @@ north_star: "Make complexity useful, then make it disappear."
   <summary><strong>更多项目与早期探索 · More projects</strong></summary>
   <br />
 
-  - 🤖 [**直播 AI 助手**](https://github.com/lulabs-org/live-ai-plugin) — 直播场景下的智能互动与上下文答复助手
   - 📝 [**会议记录工具**](https://github.com/lulabs-org/meeting_record) — 会议录音整理、说话人切片与自动化纪要提取
   - 🐍 [**SoundSentinel (Python)**](https://github.com/shimingy-zx/sound-sentinel) — SoundSentinel 的早期 Python 原型版本
 </details>
