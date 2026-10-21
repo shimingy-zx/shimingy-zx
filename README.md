@@ -8,8 +8,8 @@
 
 <p align="center">
   <strong>Product-minded full-stack developer</strong><br />
-  <em>Turning ambitious AI ideas into calm, dependable software.</em><br />
-  <a href="https://github.com/lulabs-org">Building at @lulabs-org</a> &nbsp;·&nbsp; 📍 Shenzhen, China
+  <em>AI 时代机会 = 专业能力 × AI 驾驭能力 × 综合能力</em><br />
+  <a href="https://github.com/lulabs-org">Building at @lulabs-org</a> &nbsp;·&nbsp; 📍 Shenzhen, China &nbsp;·&nbsp; ✉️ <a href="mailto:shiming.y@qq.com">shiming.y@qq.com</a>
 </p>
 
 <p align="center">
@@ -43,15 +43,16 @@ north_star: "Make complexity useful, then make it disappear."
 <table>
   <tr>
     <td width="68%" valign="top">
-      <h3>🧠 <a href="https://github.com/lulabs-org/nove-doc">Nove</a></h3>
+      <h3>🧠 <a href="https://github.com/lulabs-org/nove">Nove</a></h3>
       <p>面向 AI / Agent 的组织数据基础设施，围绕会议、转写、参与者与业务上下文建设结构化知识和工作流。</p>
       <p>我参与建设覆盖后端服务、管理端控制台、CLI 运维工具、权限体系、数据契约与项目文档的完整产品体系。</p>
       <p>
-        <a href="https://github.com/lulabs-org/nove-api"><code>NOVE API</code></a> &nbsp;
-        <a href="https://github.com/lulabs-org/nove-admin"><code>ADMIN</code></a> &nbsp;
+        <a href="https://github.com/lulabs-org/nove"><code>MONOREPO</code></a> &nbsp;
+        <a href="https://github.com/lulabs-org/nove/tree/main/apps/api"><code>API</code></a> &nbsp;
+        <a href="https://github.com/lulabs-org/nove/tree/main/apps/admin"><code>ADMIN</code></a> &nbsp;
         <a href="https://github.com/lulabs-org/nove-cli"><code>CLI</code></a> &nbsp;
-        <a href="https://github.com/lulabs-org/nove-skills"><code>SKILLS</code></a> &nbsp;
-        <a href="https://github.com/lulabs-org/nove-doc"><code>DOCS</code></a>
+        <a href="https://github.com/lulabs-org/nove/tree/main/packages/skills"><code>SKILLS</code></a> &nbsp;
+        <a href="https://github.com/lulabs-org/nove/tree/main/docs"><code>DOCS</code></a>
       </p>
     </td>
     <td width="32%" valign="top">
@@ -112,6 +113,7 @@ north_star: "Make complexity useful, then make it disappear."
   <summary><strong>更多项目与早期探索 · More projects</strong></summary>
   <br />
 
+  - 🔐 [**BIP39 Dotmap Generator**](https://github.com/shimingy-zx/bip39_dotmap) — 纯前端实现的助记词点阵可视化生成器，支持深色模式与全响应式布局
   - 📝 [**会议记录工具**](https://github.com/lulabs-org/meeting_record) — 会议录音整理、说话人切片与自动化纪要提取
   - 🐍 [**SoundSentinel (Python)**](https://github.com/shimingy-zx/sound-sentinel) — SoundSentinel 的早期 Python 原型版本
 </details>
@@ -173,4 +175,14 @@ north_star: "Make complexity useful, then make it disappear."
 
 <p align="center">
   <sub>Open to thoughtful conversations about ambitious ideas and dependable software.</sub>
+</p>
+
+<p align="center">
+  <a href="mailto:shiming.y@qq.com">
+    <img src="https://img.shields.io/badge/Email-shiming.y%40qq.com-0052CC?style=flat-square&logo=mail.ru&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/shimingy-zx">
+    <img src="https://img.shields.io/badge/GitHub-shimingy--zx-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
