@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="./README.en.md">English</a> &nbsp;·&nbsp; <b>简体中文</b>
+</p>
+
 <p align="center">
   <a href="https://github.com/lulabs-org">
     <img src="./assets/profile-intro.svg" alt="杨仕明：把真实世界的信号转化为上下文、知识、Agent 与可靠产品" width="100%" />
@@ -13,10 +17,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_PRODUCTS-071426?style=for-the-badge&logo=openai&logoColor=62E6FF" alt="AI Products" />
-  <img src="https://img.shields.io/badge/AGENT_SYSTEMS-101A3A?style=for-the-badge&logo=probot&logoColor=9B8CFF" alt="Agent Systems" />
-  <img src="https://img.shields.io/badge/FULL_STACK-0B2447?style=for-the-badge&logo=typescript&logoColor=62E6FF" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/NATIVE_TOOLS-221A40?style=for-the-badge&logo=cplusplus&logoColor=C8B8FF" alt="Native Tools" />
+  <a href="#featured-system--nove"><img src="https://img.shields.io/badge/AI_PRODUCTS-071426?style=for-the-badge&logo=openai&logoColor=62E6FF" alt="AI Products" /></a>
+  <a href="#product-constellation"><img src="https://img.shields.io/badge/AGENT_SYSTEMS-101A3A?style=for-the-badge&logo=probot&logoColor=9B8CFF" alt="Agent Systems" /></a>
+  <a href="#toolbox"><img src="https://img.shields.io/badge/FULL_STACK-0B2447?style=for-the-badge&logo=typescript&logoColor=62E6FF" alt="Full Stack" /></a>
+  <a href="https://github.com/shimingy-zx/sound-sentinel-obs"><img src="https://img.shields.io/badge/NATIVE_TOOLS-221A40?style=for-the-badge&logo=cplusplus&logoColor=C8B8FF" alt="Native Tools" /></a>
 </p>
 
 ---
@@ -75,36 +79,54 @@ north_star: "Make complexity useful, then make it disappear."
     <td width="50%" valign="top">
       <h3>🧱 <a href="https://github.com/lulabs-org/agent-voxel-world">Agent Voxel World</a></h3>
       <p>独立的本地多人 3D 体素游戏原型。集成 LLM 自主决策 Agent、服务端权威物理碰撞、附近空间语音与实时转写字幕。</p>
-      <p><code>TypeScript</code> <code>Three.js</code> <code>Colyseus</code> <code>AI Agent</code></p>
+      <p>
+        <code>TypeScript</code> <code>Three.js</code> <code>Colyseus</code> <code>AI Agent</code>
+        &nbsp;·&nbsp; <a href="https://github.com/lulabs-org/agent-voxel-world/tree/main/docs"><strong>Docs ↗</strong></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🔌 <a href="https://github.com/lulabs-org/Lulabs-MCP">LuLabs MCP</a></h3>
       <p>把飞书多维表格中的学员与会议总结封装成标准 MCP 工具，供 AI 助手查询与分析。</p>
-      <p><code>MCP</code> <code>TypeScript</code> <code>Feishu</code> <code>Zod</code></p>
+      <p>
+        <code>MCP</code> <code>TypeScript</code> <code>Feishu</code> <code>Zod</code>
+        &nbsp;·&nbsp; <a href="https://github.com/lulabs-org/Lulabs-MCP"><strong>GitHub ↗</strong></a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🎬 <a href="https://github.com/lulabs-org/covercast">Covercast</a></h3>
       <p>面向竖屏直播的可视化背景编辑器。SVG 画布、模板、多场景管理，并可直接作为 OBS 浏览器源。</p>
-      <p><code>Next.js</code> <code>React</code> <code>SVG</code> <code>OBS</code></p>
+      <p>
+        <code>Next.js</code> <code>React</code> <code>SVG</code> <code>OBS</code>
+        &nbsp;·&nbsp; <a href="https://covercast.lulabs.cn"><strong>Live Demo ↗</strong></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🎙️ <a href="https://github.com/shimingy-zx/sound-sentinel-obs">SoundSentinel</a></h3>
       <p>原生 OBS 音频过滤器：有声音时开始录制，持续静音后停止。无需 Python、WebSocket 或后台进程。</p>
-      <p><code>C++</code> <code>CMake</code> <code>OBS Native</code> <code>Audio</code></p>
+      <p>
+        <code>C++</code> <code>CMake</code> <code>OBS Native</code> <code>Audio</code>
+        &nbsp;·&nbsp; <a href="https://github.com/shimingy-zx/sound-sentinel-obs"><strong>GitHub ↗</strong></a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📄 <a href="https://github.com/lulabs-org/docuflow">DocuFlow</a></h3>
       <p>基于动态模板和字段校验生成 DOCX / PDF，把重复的专业文档工作变成可靠流程。</p>
-      <p><code>Next.js</code> <code>DOCX</code> <code>PDF</code> <code>Automation</code></p>
+      <p>
+        <code>Next.js</code> <code>DOCX</code> <code>PDF</code> <code>Automation</code>
+        &nbsp;·&nbsp; <a href="https://next-word-auto.vercel.app"><strong>Live Demo ↗</strong></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/lulabs-org/lulab-website">Lu Lab Website</a></h3>
       <p>承载实验室内容、项目与社区体验的 Web 平台，也是产品设计和技术实验的长期入口。</p>
-      <p><code>Next.js</code> <code>Three.js</code> <code>Auth</code> <code>Content</code></p>
+      <p>
+        <code>Next.js</code> <code>Three.js</code> <code>Auth</code> <code>Content</code>
+        &nbsp;·&nbsp; <a href="https://www.lulabs.org"><strong>Live Site ↗</strong></a>
+      </p>
     </td>
   </tr>
 </table>
@@ -113,7 +135,7 @@ north_star: "Make complexity useful, then make it disappear."
   <summary><strong>更多项目与早期探索 · More projects</strong></summary>
   <br />
 
-  - 🔐 [**BIP39 Dotmap Generator**](https://github.com/shimingy-zx/bip39_dotmap) — 纯前端实现的助记词点阵可视化生成器，支持深色模式与全响应式布局
+  - 🔐 [**BIP39 Dotmap Generator**](https://github.com/shimingy-zx/bip39_dotmap) — 纯前端实现的助记词点阵可视化生成器，支持深色模式与全响应式布局 · [Live Demo ↗](https://shimingy-zx.github.io/bip39_dotmap/)
   - 📝 [**会议记录工具**](https://github.com/lulabs-org/meeting_record) — 会议录音整理、说话人切片与自动化纪要提取
   - 🐍 [**SoundSentinel (Python)**](https://github.com/shimingy-zx/sound-sentinel) — SoundSentinel 的早期 Python 原型版本
 </details>
